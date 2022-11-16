@@ -80,14 +80,14 @@
             }
         },
         "HaloCustomAlertTypeField": {
-            "defaultValue": "252",
+            "defaultValue": "182",
             "type": "string",
             "metadata": {
                 "description": "The ID used for the CFDattoAlertType custom field added to tickets"
             }
         },
         "HaloTicketType": {
-            "defaultValue": "24",
+            "defaultValue": "21",
             "type": "string",
             "metadata": {
                 "description": "The ID of the ticket type you want to use for alerts in Halo"
